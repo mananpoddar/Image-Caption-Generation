@@ -1,0 +1,6 @@
+Django==1.11
+Pillow==5.4.1
+pytz==2018.9
+tensorflow
+keras
+matplotlib

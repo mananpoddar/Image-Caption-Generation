@@ -1,2 +1,3 @@
+venv/
 annotations/
 model_weights.keras
